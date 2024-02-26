@@ -4,3 +4,6 @@
 
 ### PULSE의 의미는?
 **P**usan national **U**niversity’s **L**ogical problem-**S**olving group for program **E**nhancement
+
+### PULSE website
+https://sites.google.com/view/pnu-cse-pulse
